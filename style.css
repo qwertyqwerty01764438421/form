@@ -1,0 +1,43 @@
+
+.container{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #f96903;
+    max-height: fit-content;
+}
+.contact-right{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+.contact-right form{
+    width: 100%;
+
+}
+form input, form textarea{
+    width: 100%;
+    border: 0;
+    outline:none;
+    background: #f90303;
+    padding: 15px;
+    margin: 15px 0;
+    color: #fff;
+    font-size: 18px;
+    border-radius: 6px;
+}
+form btn2{
+    padding: 14px 60px;
+    font-size: 18px;
+    margin-top: 20px;
+  
+}
+.btn.btn2{
+    display: inline-block;
+    background: #ff7b00;
+    padding: 10px 15px;
+    cursor: pointer;
+    
+    border-radius: 1px;
+    border: 1px solid black;
+}
